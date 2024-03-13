@@ -1,0 +1,24 @@
+{
+  "clientes": [
+    {
+      "id": "3361",
+      "nombre": "Ernesto",
+      "apellido": "Silva",
+      "email": "cafe_cafe_cafe@outlook.com",
+      "telefono": "132-134-5661",
+      "empresa": "Chuy",
+      "puesto": "Patabionica",
+      "estado": 1
+    },
+    {
+      "id": "e013",
+      "nombre": "Mash",
+      "apellido": "Edgar",
+      "email": "cafe_cafe_cafe@outlook.com",
+      "telefono": "1321345661",
+      "empresa": "Toro",
+      "puesto": "sq",
+      "estado": 1
+    }
+  ]
+}
